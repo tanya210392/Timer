@@ -1,4 +1,4 @@
-Countdown Timer SPA
+Implement logic and UI for Countdown Timer using ReactJS
 
 <img src="https://i.ibb.co/fCzCSXJ/Screenshot-3.png" alt="Screenshot-3" border="0">
 <br /><br />
